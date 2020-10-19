@@ -1,4 +1,5 @@
 # Drum Kit Notes
+<img width="1287" alt="Screen Shot 2020-10-19 at 3 27 13 PM" src="https://user-images.githubusercontent.com/59414750/96513620-9a7b7380-121f-11eb-92a1-9c99f4163f64.png">
 
 ### Overview
 - when a user enters a letter on their keyboard, it will play a sound

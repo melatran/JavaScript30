@@ -16,3 +16,5 @@
    </BODY>
 </HTML>
 ```
+
+- JS is smart enough to find `index.html` file and will automatically load that page as the lead
